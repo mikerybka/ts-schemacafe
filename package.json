@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mikerybka/ts-schemacafe/issues"
   },
-  "homepage": "https://github.com/mikerybka/ts-schemacafe#readme"
+  "homepage": "https://github.com/mikerybka/ts-schemacafe#readme",
+  "dependencies": {
+    "esbuild": "0.17.3"
+  }
 }
